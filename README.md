@@ -32,5 +32,3 @@ This is my personal portfolio website built using **Next.js, React, and TypeScri
 - Vercel (Deployment)
 
 ---
-
-## 📂 Project Structure
